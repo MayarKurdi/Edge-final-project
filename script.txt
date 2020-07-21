@@ -4,7 +4,7 @@
 </head>
 <body bgcolor="F3D9E7" text="darkred">
 <a name="top2"></a>
- <h1><font color="darkblue"> <p align="center" >CORONAVIRUS </p></font></h1> 
+ <h1><font color="darkred"> <p align="center" >CORONAVIRUS </p></font></h1> 
 
 <p align="center"><IMG SRC=coronaa.png  BORDER="2" hspace="0" width="550" height="300"></IMG></p>
 
