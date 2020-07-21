@@ -4,7 +4,7 @@
 </head>
 <body bgcolor="F3D9E7" text="darkred">
 <a name="top2"></a>
- <h1><font color="darkred"> <p align="center" >CORONAVIRUS </p></font></h1> 
+ <h1><font color="darkblue"> <p align="center" >CORONAVIRUS </p></font></h1> 
 
 <p align="center"><IMG SRC=coronaa.png  BORDER="2" hspace="0" width="550" height="300"></IMG></p>
 
@@ -18,6 +18,8 @@
   <li> Most people who get COVID-19 recover from it </li>
   <li> The likelihood of shoes spreading COVID-19 is very low </li>
   <li> The coronavirus disease (COVID-19) is caused by a virus, NOT by bacteria </li>
+  <li>  Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) is the name given to the 2019 novel coronavirus. COVID-19 is the name given to the disease associated with the virus. SARS-CoV-2 is a new strain of coronavirus that has not been previously identified in humans. </li>
+   <li> Coronaviruses are viruses that circulate among animals with some of them also known to infect humans. <br> Bats are considered natural hosts of these viruses yet several other species of animals are also known to act as sources. For instance, Middle East Respiratory Syndrome Coronavirus (MERS-CoV) is transmitted to humans from camels, and Severe Acute Respiratory Syndrome Coronavirus-1 (SARS-CoV-1) is transmitted to humans from civet cats. More information on coronaviruses can be found in the disease background of COVID-19.</li>
 </ul>
 
 <font color="green"><h3> Myths about COVID-19 </h3>
@@ -95,6 +97,10 @@
 <h4> <p align="right"><font color="grey">   Where did the virus originate?
 Chinese health authorities are still trying to determine the origin of the virus, which they say likely came from a seafood market in Wuhan, China where wildlife was traded illegally.<br>
 On February 7, Chinese researchers said the virus could have spread from an infected animal species to humans through illegally-trafficked pangolins.Scientists have pointed to either bats or snakes as possible sources of the virus. 
+</font></p></h4>
+
+<h4> <p align="left"><font color="darkgreen"> Symptoms of COVID-19 vary in severity from having no symptoms at all (being asymptomatic) to having fever, cough, sore throat, general weakness and fatigue and muscular pain and in the most severe cases, severe pneumonia, acute respiratory distress syndrome, sepsis and septic shock, all potentially leading to death. Reports show that clinical deterioration can occur rapidly, often during the second week of disease. <br>
+Recently, anosmia – loss of the sense of smell – (and in some cases the loss of the sense of taste) have been reported as a symptom of a COVID-19 infection. There is already evidence from South Korea, China and Italy that patients with confirmed SARS-CoV-2 infection have developed anosmia/hyposmia, in some cases in the absence of any other symptoms.
 </font></p></h4>
 
 
