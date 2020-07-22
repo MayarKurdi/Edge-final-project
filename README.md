@@ -88,7 +88,7 @@
 <front color="blue"><h2><marquee behavior="scroll" loop="infinite" bgcolor="lightgreen"> Don't forget to wash your hands! </marquee></h1></front>
 
 
-<BR><p align="center"><IMG SRC=timeline.png  BORDER="2" hspace="0" width="400" height="300"></IMG></p>
+<BR><p align="center"><IMG SRC=timeline.png  BORDER="2" hspace="0" width="400" height="300"></IMG></p> 
 
 
 
